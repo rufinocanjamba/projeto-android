@@ -183,6 +183,12 @@ footer{
     color: white;
 }
 
+footer a{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(to right, var(--cor1), transparent);
+}
+
 nav a:hover{
     background-image: linear-gradient(to top, var(--cor1), transparent);
     color: var(--cor778);
@@ -212,10 +218,6 @@ nav a:hover{
         letter-spacing:0.2px;
         margin:20px 0px;
         text-decoration:none;
-
-        
-        
-        
 }                                                                                                                                                                                                                                                                                                                                                                                                                    
 
 
